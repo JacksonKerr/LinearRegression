@@ -1,5 +1,5 @@
 # Linear Regression
-University of Otago INFO204 Assignment S2 2021
+
 ## NOTE: This document may take a while to finish if run in Google Colab.
 ## Resources Used:
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
